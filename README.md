@@ -5,9 +5,13 @@
 
 
 - 🌱 I’m currently learning **Jetpack Compose** and **Android Architecture Components**
+
 - 💬 Ask me about **Android Development** 
+
 - 📫 How to reach me: arthurgonzagaxyz@gmail.com
+
 - 😄 Pronouns: **He / his**
+
 - ⚡ Fun fact: ...
 
 ### Connect with me:
