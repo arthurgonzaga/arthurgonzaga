@@ -13,7 +13,6 @@
 ### Connect with me:
 
 [<img align="left" alt="Arthur Gonzaga | Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Arthur Gonzaga | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Arthur Gonzaga | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Arthur Gonzaga | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
@@ -34,7 +33,7 @@
   <img align="left" alt="Javascript" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" />
   <img align="left" alt="Node.js" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" />
   <img align="left" alt="MySQL" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" />
-  <img align="left" alt="AWS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/512px-Amazon_Web_Services_Logo.svg.png"/>
+  <img align="left" alt="AWS" height="26px" src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/102017/logo_0.png?17TK91b1B6OvV2MFrCLfukw1c8oEaNr6&itok=vsanFiUj"/>
   <img align="left" alt="Git" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />
   <img alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 </div>
@@ -55,15 +54,6 @@
 
 ---
 
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...][youtube]
-
----
 
 ### 📕 Latest Blog Posts
 
