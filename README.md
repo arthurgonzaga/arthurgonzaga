@@ -4,7 +4,7 @@
 <br/>
 
 
-- 🌱 I’m currently learning **Jetpack Compose** and **Design Patterns**
+- 🌱 I’m currently learning **Jetpack Compose** and **Clean Architecture**
 - 💬 Ask me about **Android Development** 
 - 📫 How to reach me: arthurgonzagaxyz@gmail.com
 - 😄 Pronouns: **He / his**
