@@ -8,7 +8,7 @@
 - 💬 Ask me about **Android Development** 
 - 📫 How to reach me: arthurgonzagaxyz@gmail.com
 - 😄 Pronouns: **He / his**
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I don't drink coffee
 
 ### Connect with me:
 
