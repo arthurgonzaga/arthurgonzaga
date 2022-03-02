@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arthur Gonzaga</h1>
-<h3 align="center">An Android developer with over 3 years of experience. I'm from Brazil</h3>
+<h3 align="center">An Android developer with over 4 years of experience. I'm from Brazil</h3>
 
 <br/>
 
