@@ -54,28 +54,14 @@
 
 ---
 
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Android - Componentes](https://android-master.com.br/android/conceitos-basicos/componentes/)
-- [Android - Arquivo de Recursos](https://android-master.com.br/android/conceitos-basicos/arquivo-de-recursos/)
-- [Android - FindViewById](https://android-master.com.br/android/conceitos-basicos/findViewById/)
-- [Android - ViewBinding](https://android-master.com.br/android/conceitos-basicos/view-binding/)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://android-master.com.br/)
-
----
-
-<details>
+<div>
   <summary>:zap: Github Stats</summary>
   
   <br/>
   
   [![Arthur Gonzaga's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arthurgonzaga&show_icons=true)](https://github.com/arthurgonzaga)
  
-</details>
+</div>
 
 [website]: https://arthurgonzaga.com/
 [youtube]: https://www.youtube.com/channel/UCasjMRuptb_CQ_BTjMRTLTQ
